@@ -49,7 +49,7 @@ This project aims to predict whether a loan is likely to be fully paid or charge
 
 This bar chart shows which features contributed most to the model's predictions.
 
-![Top 10 Feature Importances](images/top_10_feature_importances.png)
+![Top 10 Feature Importances](top_10_feature_importances.png)
 
 ---
 
