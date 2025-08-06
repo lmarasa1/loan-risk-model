@@ -45,8 +45,11 @@ This project aims to predict whether a loan is likely to be fully paid or charge
     - Precision/Recall/F1 scores included
     - Feature Importance chart shown below
 
-![Feature Importance Screenshot](feature_importance.png)  ← *(save plot as image and include here)*
-<img width="1000" height="600" alt="top_10_feature_importances" src="https://github.com/user-attachments/assets/d5e69bf4-3d58-46e9-aa39-b24b4e091aba" />
+### Top 10 Feature Importances
+
+This bar chart shows which features contributed most to the model's predictions.
+
+![Top 10 Feature Importances](images/top_10_feature_importances.png)
 
 ---
 
